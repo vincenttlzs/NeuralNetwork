@@ -13,4 +13,4 @@ This Project include 7 part
 
 6.LSTM ( long short term memeray). Generate a making sense name.
 
-7.reinforcement learning for a little game.
+7.Reinforcement learning for a little game.
