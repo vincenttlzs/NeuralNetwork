@@ -1,5 +1,6 @@
 NeuralNetwork
-This Project include 7 part
+
+This Project includes 7 parts
 
 1.Get start to build a nerual networfk to classify random points
 
